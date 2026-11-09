@@ -55,3 +55,9 @@ sequenceDiagram
     Dify-->>User: answer + citations (file, page)
 ```
 
+## 4. Demo
+
+
+
+https://github.com/user-attachments/assets/f1189cd9-beb6-4b49-972e-f288ecf679e8
+
