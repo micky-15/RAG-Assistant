@@ -7,7 +7,6 @@ Python pipeline; [Dify](https://dify.ai) provides the chatbot and its public web
 
 How it works, in pictures: **[PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)**
 
-Demo recording: [demo/chatbot_demo.mp4](demo/chatbot_demo.mp4)
 
 ## What's in the repo
 
