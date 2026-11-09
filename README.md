@@ -1,7 +1,5 @@
 # RAG Chatbot: LangChain + Chroma + Groq + Dify
 
-https://github.com/user-attachments/assets/f43b6c14-106d-4872-aa40-1316fa859575
-
 
 
 Ask questions about PDF reports and get answers with sources. Search runs in my own
