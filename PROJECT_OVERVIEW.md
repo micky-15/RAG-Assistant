@@ -61,3 +61,27 @@ sequenceDiagram
 
 https://github.com/user-attachments/assets/f1189cd9-beb6-4b49-972e-f288ecf679e8
 
+
+
+## 5. Evaluation
+
+
+### Retrieval on 100 reference questions
+
+How often the right chunk appears in the top results, and how high it ranks:
+
+| Search method | Right chunk first (hit@1) | In top 3 | In top 5 |
+|---|---|---|---|
+| Vector search only | 0.57 | 0.72 | 0.79 |
+| **Vector search + reranker (used in this project)** | **0.72** | **0.87** | **0.91** 
+
+
+### Generation on 10 hand-written questions with reference answers
+
+| RAGAS metric | Score |
+|---|---|
+| Context precision | 0.63 |
+| Context recall | 0.75 |
+| Faithfulness | 0.95 |
+| Answer relevancy | 0.70 |
+
